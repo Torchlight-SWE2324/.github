@@ -10,6 +10,13 @@ Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Univ
 
 Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 
+## Struttura
+
+Le repository sono strutturate nel seguente modo:
+
+- **Documentazione**: Qui si trovano tutti i documento prodotti durante lo svolgimento del preogetto
+- **Project**
+
 ## Membri del gruppo
 
 | Cognome      | Nome             | Matricola |
