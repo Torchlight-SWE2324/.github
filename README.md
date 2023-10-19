@@ -1,10 +1,11 @@
 # torchlight 🔦
 
 <p align="center">
-  <img width="250" src="torchlight_dark.svg#gh-dark-mode-only">
-  <img width="250" src="torchlight_light.svg#gh-light-mode-only">
+  <img width="250" src="resources/torchlight_light.png#gh-dark-mode-only">
+  <img width="250" src="resources/torchlight_light.png#gh-light-mode-only">
 </p>
 
+Lorem ipsum
 
 <!--
 
