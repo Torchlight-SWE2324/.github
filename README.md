@@ -5,7 +5,19 @@
   <img width="300" src="torchlight_light.png#gh-light-mode-only">
 </p>
 
-Lorem ipsum
+Lorem
+
+## Membri del gruppo
+
+  | Cognome      | Nome             | Matricola |
+  | :----------- | :--------------  | :-------- |
+  | Agafitei     | Ciprian          | 2034325   |
+  | Cappellari   | Marco            | 2046422   |
+  | De Laurentis | Arianna Pia      | 2008077   |
+  | Filippini    | Giovanni         | 2052784   |
+  | Meneghini    | Fabio            | 2034332   |
+  | Pluzhnikov   | Dmitry           | 1169886   |
+  | Ye           | Tao Ren Federico | 2000549   |
 
 <!--
 
