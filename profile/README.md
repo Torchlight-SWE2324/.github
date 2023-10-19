@@ -1,9 +1,10 @@
-# torchlight 🔦
-
 <p align="center">
-  <img width="300" src="torchlight_dark.png#gh-dark-mode-only">
-  <img width="300" src="torchlight_light.png#gh-light-mode-only">
+  <img width="400" src="torchlight_dark.png#gh-dark-mode-only">
+  <img width="400" src="torchlight_light.png#gh-light-mode-only">
 </p>
+
+</br>
+</br>
 
 Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Università degli Studi d Padova.
 
