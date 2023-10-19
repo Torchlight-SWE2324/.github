@@ -1,8 +1,8 @@
 # torchlight 🔦
 
 <p align="center">
-  <img width="300" src="Torchlight-SWE2324/.github/profile/resources/torchlight_dark.png#gh-dark-mode-only">
-  <img width="300" src="Torchlight-SWE2324/.github/profile/resources/torchlight_light.png#gh-light-mode-only">
+  <img width="300" src="torchlight_dark.png#gh-dark-mode-only">
+  <img width="300" src="torchlight_light.png#gh-light-mode-only">
 </p>
 
 Lorem ipsum
