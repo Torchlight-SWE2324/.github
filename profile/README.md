@@ -6,7 +6,7 @@
 </br>
 </br>
 
-Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Università degli Studi d Padova.
+Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Universita' degli Studi d Padova.
 
 Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 
@@ -14,7 +14,7 @@ Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 
 Le repository sono strutturate nel seguente modo:
 
-- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Qui si trovano tutti i documento prodotti durante lo svolgimento del progetto.
+- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Si possono trovare tutti i documenti prodotti durante lo svolgimento del progetto.
 - [**Progetto**](https://github.com/Torchlight-SWE2324/Project)
 
 ## Membri del gruppo
