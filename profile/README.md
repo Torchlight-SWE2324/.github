@@ -14,8 +14,8 @@ Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 
 Le repository sono strutturate nel seguente modo:
 
-- **Documentazione**: Qui si trovano tutti i documento prodotti durante lo svolgimento del preogetto
-- **Project**
+- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Qui si trovano tutti i documento prodotti durante lo svolgimento del progetto.
+- [**Progetto**](https://github.com/Torchlight-SWE2324/Project)
 
 ## Membri del gruppo
 
