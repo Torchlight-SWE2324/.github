@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="400" src="torchlight_dark.png#gh-dark-mode-only">
-  <img width="400" src="torchlight_light.png#gh-light-mode-only">
+  <img width="400" src="profile/torchlight_light.png#gh-dark-mode-only">
+  https://github.com/Torchlight-SWE2324/.github/blob/0fb74bc273c476594a3d66bf16678b410404f519/profile/torchlight_dark.png
+  <img width="400" src="profile/torchlight_dark.png#gh-light-mode-only">
 </p>
 
 </br>
