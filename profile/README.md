@@ -1,5 +1,11 @@
 # torchlight 🔦
 
+<p align="center">
+  <img width="250" src="torchlight_dark.svg#gh-dark-mode-only">
+  <img width="250" src="torchlight_light.svg#gh-light-mode-only">
+</p>
+
+
 <!--
 
 **Here are some ideas to get you started:**
