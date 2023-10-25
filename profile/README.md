@@ -28,3 +28,5 @@ Le repository sono strutturate nel seguente modo:
 | Meneghini    | Fabio            | 2034332   |
 | Pluzhnikov   | Dmitry           | 1169886   |
 | Ye           | Tao Ren Federico | 2000549   |
+
+Tutti i contenuti presenti in questa repository sono rilasciati sotto licenza MIT.
