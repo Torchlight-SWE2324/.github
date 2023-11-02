@@ -3,6 +3,8 @@
   <img width="400" src="profile/torchlight_light.svg#gh-light-mode-only">
 </p>
 
+<br>
+
 Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Universita' degli Studi di Padova.
 
 ## Struttura
