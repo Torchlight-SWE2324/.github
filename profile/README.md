@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="400" src="profile/torchlight_dark.png#gh-dark-mode-only">
-  <img width="400" src="profile/torchlight_light.png#gh-light-mode-only">
+  <img width="400" src="profile/torchlight_dark.svg#gh-dark-mode-only">
+  <img width="400" src="profile/torchlight_light.svg#gh-light-mode-only">
 </p>
 
 </br>
@@ -15,7 +15,7 @@ Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 Le repository sono strutturate nel seguente modo:
 
 - [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Si possono trovare tutti i documenti prodotti durante lo svolgimento del progetto.
-- [**Progetto**](https://github.com/Torchlight-SWE2324/Project)
+- [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL)
 
 ## Membri del gruppo
 
@@ -29,4 +29,4 @@ Le repository sono strutturate nel seguente modo:
 | Pluzhnikov   | Dmitry           | 1169886   |
 | Ye           | Tao Ren Federico | 2000549   |
 
-Tutti i contenuti presenti in questa repository sono rilasciati sotto licenza MIT.
+Tutti i contenuti distribuiti in questa repository sono rilasciati sotto licenza MIT.
