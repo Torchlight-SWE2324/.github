@@ -14,8 +14,8 @@ Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
 
 Le repository sono strutturate nel seguente modo:
 
-- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Si possono trovare tutti i documenti prodotti durante lo svolgimento del progetto.
-- [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL)
+- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Sono presenti tutti i documenti prodotti durante lo svolgimento del progetto.
+- [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL): E' la repository contenente il codice sorgente del progetto.
 
 ## Membri del gruppo
 
