@@ -3,19 +3,14 @@
   <img width="400" src="profile/torchlight_light.svg#gh-light-mode-only">
 </p>
 
-</br>
-</br>
-
-Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Universita' degli Studi d Padova.
-
-Qui sono presenti le documentazioni del progetto ed il suo codice sorgente.
+Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Universita' degli Studi di Padova.
 
 ## Struttura
 
-Le repository sono strutturate nel seguente modo:
+Il progetto è suddiviso nelle seguenti repository:
 
-- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Sono presenti tutti i documenti prodotti durante lo svolgimento del progetto.
-- [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL): E' la repository contenente il codice sorgente del progetto.
+- [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Contiene la documentazione prodotta durante lo sviluppo del progetto.
+- [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL): Contiene il codice sorgente del progetto.
 
 ## Membri del gruppo
 
@@ -29,4 +24,6 @@ Le repository sono strutturate nel seguente modo:
 | Pluzhnikov   | Dmitry           | 1169886   |
 | Ye           | Tao Ren Federico | 2000549   |
 
-Tutti i contenuti distribuiti in questa repository sono rilasciati sotto licenza MIT.
+## Licenza
+
+Tutte le repository prodotte in questo progetto sono distribuite sotto licenza MIT. Eventuali attribuzioni aggiuntive sono presenti all'interno delle repository stesse.
