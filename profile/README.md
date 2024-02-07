@@ -9,10 +9,13 @@ Profilo del gruppo **torchlight** del corso di Ingegneria del Software dell'Univ
 
 ## Struttura
 
-Il progetto è suddiviso nelle seguenti repository:
+Il progetto è suddiviso nelle seguenti repository principali:
 
 - [**Documentazione**](https://github.com/Torchlight-SWE2324/Documentazione): Contiene la documentazione prodotta durante lo sviluppo del progetto.
 - [**ChatSQL**](https://github.com/Torchlight-SWE2324/ChatSQL): Contiene il codice sorgente del progetto.
+
+## Consultazione dei documenti prodotti
+È possibile utilizzare il sito [https://torchlight-swe2324.github.io/](https://torchlight-swe2324.github.io/) per visualizzare rapidamente tutta la documentazione prodotta.
 
 ## Membri del gruppo
 
