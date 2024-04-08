@@ -31,4 +31,4 @@ Il progetto è suddiviso nelle seguenti repository principali:
 
 ## Licenza
 
-Tutte le repository prodotte in questo progetto sono distribuite sotto licenza MIT. Eventuali attribuzioni aggiuntive sono presenti all'interno delle repository stesse.
+Tutte le repository prodotte in questo progetto sono distribuite sotto licenza MIT. Eventuali attribuzioni aggiuntive sono presenti all'interno delle repository stesse. (Se non vuoi leggere la licenza, [ascoltala qui](https://app.suno.ai/song/da6d4a83-1001-4694-8c28-648a6e8bad0a/))
